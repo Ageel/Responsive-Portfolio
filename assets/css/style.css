@@ -246,12 +246,14 @@ input[type=submit] {
   }
 
   header {
-    width: 75%;
+    width: 70%;
+    padding: 0 40px;
     margin: 0 auto;
   }
 
   .main-section {
-    width: 75%;
+    width: 40%;
+    margin-left: 40px;
   }
 
   .auth-image {
@@ -259,13 +261,14 @@ input[type=submit] {
     float: none;
   }
 
-  .side-bar {
+  .connect {
     width: 30%;
+    margin-right: 30px;
   }
 
   footer {
-    width: 75%;
-    margin: 0 auto;
+    width: 100%;
+    
   }
 }
 
